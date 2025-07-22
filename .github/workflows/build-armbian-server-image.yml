@@ -218,6 +218,7 @@ on:
         type: choice
         options:
           - stable
+          - rk35xx
           - flippy
           - dev
           - beta
